@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.miui.misound">
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.MODIFY_AUDIO_ROUTING"/>
+        <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+        <permission name="android.permission.STATUS_BAR"/>
+        <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+        <permission name="android.btorwired.headset.for.soundid.ACTIVE_DEVICE_CHANGED" />
+        <permission name="android.permission.BROADCAST_STICKY" />
+        <permission name="android.permission.INTERACT_ACROSS_USERS" />
+        <permission name="android.permission.MODIFY_AUDIO_SETTINGS" />
+        <permission name="android.permission.MODIFY_AUDIO_ROUTING" />
+        <permission name="android.permission.INTERNAL_SYSTEM_WINDOW" />
+        <permission name="android.permission.WRITE_SECURE_SETTINGS" />
+        <permission name="android.permission.BLUETOOTH_CONNECT" />
+        <permission name="android.permission.BLUETOOTH" />
+        <permission name="android.permission.FOREGROUND_SERVICE" />
+        <permission name="android.permission.SET_ACTIVITY_WATCHER" />
+        <permission name="android.permission.RECORD_AUDIO" />
+        <permission name="android.permission.BLUETOOTH_ADMIN" />
+        <permission name="android.permission.STATUS_BAR" />
+        <permission name="android.permission.MANAGE_ACTIVITY_STACKS" />
+        <permission name="android.permission.RECEIVE_BOOT_COMPLETED" />
+        <permission name="android.permission.QUERY_ALL_PACKAGES" />
+        <permission name="android.permission.MODIFY_DEFAULT_AUDIO_EFFECTS" />
+        <permission name="android.permission.POST_NOTIFICATIONS" />
+        <permission name="android.permission.VIBRATE" />
+        <!-- Android 9 and bellow -->
+        <permission name="android.permission.MANAGE_ACTIVITY_STACKS"/>
+    </privapp-permissions>
+</permissions>

@@ -1,0 +1,31 @@
+# All unpinned blobs below are extracted from miui_SWEETININGlobal_V14.0.1.0.TKFINXM_022ce09a45_13.0
+
+# Mi Sound - modified
+system_ext/priv-app/MiSound/MiSound.apk|2633c8d788fa02d99ae2781fecc620d9758924d5
+system_ext/priv-app/MiSound/lib/arm64/libmiuiblursdk.so|28c358508a3b554ef79df2861c0f4ff65a314376
+system_ext/priv-app/MiSound/lib/arm64/libmp3lame.so|b5639b36aab2c94eca7b0fab97aaf5e992347668
+system_ext/priv-app/MiSound/lib/arm64/libnative-lib.so|e91ad4447f886c70bfa3f36bafe2c6750d56df41
+
+# dax Service - from sweetin-user 12 SKQ1.210908.001 V13.0.10.0.SKFINXM release-keys
+system_ext/priv-app/daxService/daxService.apk|18d33eacf5786a6362b897a6d46bdc23485ba8a2
+vendor/etc/dolby/dax-default.xml|66ee4e02ee16a89fe54ac5165792233531610537
+
+# Dolby (DMS)
+vendor/bin/hw/vendor.dolby.hardware.dms@2.0-service
+vendor/etc/init/vendor.dolby.hardware.dms@2.0-service.rc
+vendor/etc/vintf/manifest/manifest_vendor.dolby.hardware.dms.xml
+vendor/lib/libdapparamstorage.so
+vendor/lib/vendor.dolby.hardware.dms@2.0.so
+vendor/lib64/libdapparamstorage.so
+vendor/lib64/libdlbdsservice.so
+vendor/lib64/vendor.dolby.hardware.dms@2.0-impl.so
+vendor/lib64/vendor.dolby.hardware.dms@2.0.so
+
+# Dolby (Media)
+vendor/lib/libdeccfg.so
+vendor/lib/libstagefright_soft_ac4dec.so
+vendor/lib/libstagefright_soft_ddpdec.so
+vendor/lib/libstagefrightdolby.so
+
+# Dolby (Sound FX) - from rhode S1SR32.38-124-3
+vendor/lib/soundfx/libswdap.so|810d0e266e4a77f06cba72fe8bdde2e1ede4f9f9

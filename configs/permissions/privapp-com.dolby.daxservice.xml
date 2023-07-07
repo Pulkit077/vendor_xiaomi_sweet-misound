@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.dolby.daxservice">
+        <permission name="android.permission.INTERACT_ACROSS_USERS"/>
+        <permission name="android.permission.BLUETOOTH" />
+        <permission name="android.permission.MODIFY_AUDIO_SETTINGS" />
+        <permission name="android.permission.INTERACT_ACROSS_USERS" />
+        <permission name="android.permission.INTERACT_ACROSS_USERS_FULL" />
+        <permission name="android.permission.MANAGE_USERS" />
+        <permission name="android.permission.SYSTEM_ALERT_WINDOW" />
+        <permission name="android.permission.SUBSTITUTE_NOTIFICATION_APP_NAME" />
+        <permission name="android.permission.WRITE_SECURE_SETTINGS" />
+        <permission name="android.permission.QUERY_ALL_PACKAGES" />
+        <permission name="dolby.permission.DAXSERVICE" />
+        <broadcast name="com.dolby.intent.action.DAP_PARAMS_UPDATE" />
+        <broadcast name="com.dolby.intent.ACTION_RELOAD_TUNING" />
+        <broadcast name="audio_server_restarted" />
+        <!-- Android 9 and bellow -->
+        <permission name="android.permission.MANAGE_ACTIVITY_STACKS"/>
+    </privapp-permissions>
+</permissions>
