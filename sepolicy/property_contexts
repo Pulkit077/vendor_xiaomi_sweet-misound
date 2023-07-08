@@ -1,0 +1,14 @@
+persist.vendor.audio.3dsurround.enable                       u:object_r:vendor_audio_prop:s0
+persist.vendor.audio.button_jack.profile                     u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.dolby.dax.support                            u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.dpaudio                                      u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.feature.spatial                              u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.hifi                                         u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.scenario.headphone.only                      u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.sfx.audiovisual                              u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.sfx.earadj                                   u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.sfx.harmankardon                             u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.sfx.independentequalizer                     u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.sfx.scenario                                 u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.soundfx.type                                 u:object_r:vendor_audio_prop:s0
+ro.vendor.audio.support.sound.id                             u:object_r:vendor_audio_prop:s0
